@@ -1,4 +1,4 @@
-# HTML and CSS Milestones
+<!-- # HTML and CSS Milestones -->
 
 Below is a list of tasks. By the start of next week, everyone should...
 
